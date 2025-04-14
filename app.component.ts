@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular 6';
+  const a;
   let test = 'test code';
 }
