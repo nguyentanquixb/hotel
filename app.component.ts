@@ -11,5 +11,6 @@ export class AppComponent  {
   const a;
   let test = 'test code';
   test = 2;
+  test = 3;
 
 }
