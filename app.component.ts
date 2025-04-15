@@ -12,5 +12,5 @@ export class AppComponent  {
   let test = 'test code';
   test = 2;
   test = 3;
-
+  test = 4;
 }
