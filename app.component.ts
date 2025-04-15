@@ -11,8 +11,7 @@ export class AppComponent  {
   const a;
   let test = 'test code';
   test = 2;
-  test = 3;
-  test = 4;
+  let text = 'fix conflict'
   test = 6;
   test = 5;
   text : "conflict";
