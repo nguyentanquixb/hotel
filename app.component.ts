@@ -14,4 +14,5 @@ export class AppComponent  {
   test = 3;
   test = 4;
   test = 5;
+  text : "conflict";
 }
