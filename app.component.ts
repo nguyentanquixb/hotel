@@ -15,4 +15,6 @@ export class AppComponent  {
   test = 6;
   test = 5;
   text : "conflict";
+
+  const codeLogin = 1;
 }
